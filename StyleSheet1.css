@@ -1,0 +1,29 @@
+﻿body
+		{margin: 0;
+		padding: 0;
+
+		}
+
+.paragraph {
+
+			font-size: 25px;
+			font-color: black;
+			margin: 24px;}
+
+
+.navigation {
+			background-color: black;
+			font-size: 30px;
+			margin: 10px;
+			}
+
+.naviagation li {
+				display: inline-block; 
+				margin: 20px;}
+
+.navigation li a {
+					color: white;
+					font-size: 30px;
+					padding: 20px;
+					margin: 10px;
+					}
